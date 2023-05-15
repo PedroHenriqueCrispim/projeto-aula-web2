@@ -7,7 +7,7 @@ form{
     background-image: linear-gradient(to right, aqua,black);
     max-width: 500px;
     float:left;
-    margin-left: 40%;
+    
     margin-bottom: bold;
 }
 
@@ -42,6 +42,7 @@ textarea{
     margin-left: 200px;
 }
 .maps{
-    width: 300px;
-    height: 120px;
+    width: 600px;
+    height: 600px;
+    margin-left: 40%;
 }
